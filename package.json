@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap-icons": "^1.11.3",
-    "three": "^0.165.0"
-  },
-  "devDependencies": {
-    "vite": "^5.2.13"
-  }
-}
