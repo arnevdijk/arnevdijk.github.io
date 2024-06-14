@@ -17,7 +17,6 @@
     --color-fg: #ffffff;
 }
 
-
 body {
     position: relative;
     background: linear-gradient(var(--color-bg), var(--color-darkblue));
