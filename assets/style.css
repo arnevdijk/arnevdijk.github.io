@@ -29,6 +29,8 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow-x: hidden;
+    user-select: none;
+
 }
 canvas {
     position: absolute;
@@ -45,9 +47,8 @@ canvas#particles {
 }
 
 canvas#donut{
-    position: fixed;
-    top: 50%;
-    left: 50%;
+    top: 70%;
+    left: 80%;
     transform: translate(-50%, -50%);
     z-index: -12;
     pointer-events: none;
