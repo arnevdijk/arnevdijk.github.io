@@ -1,8 +1,8 @@
 @font-face {
     font-family: WhiteRabbit;
-    src: url(/fonts/WhiteRabbit.eot) format('embedded-opentype'),
-        url(/fonts/WhiteRabbit.woff2) format('woff2'),
-        url(/fonts/WhiteRabbit.woff) format('woff');
+    src: url(fonts/WhiteRabbit.eot) format('embedded-opentype'),
+        url(fonts/WhiteRabbit.woff2) format('woff2'),
+        url(fonts/WhiteRabbit.woff) format('woff');
 }
 
 [data-theme="light"] {
