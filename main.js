@@ -314,4 +314,8 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 	var __webpack_exports__ = __webpack_require__("./src/assets/script.js");
 /******/ 	
 /******/ })()
+<<<<<<< Updated upstream:main.js
 ;
+=======
+;
+>>>>>>> Stashed changes:dist/main.js
